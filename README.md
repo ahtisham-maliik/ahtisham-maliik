@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammad Ihtisham Ul Haq 👋</h1>
 
 <p align="center">
-  <b>Data Scientist | NLP Enthusiast | Explorer of Agentic AI</b><br>
+  <b>Data Scientist | NLP Engineer | Explorer of Agentic AI</b><br>
   <i>I work with Models.</i>
 </p>
 
